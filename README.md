@@ -1,4 +1,4 @@
-# fast.io-static-website-deploy
+# Static-website-deploy
 Deploy a static website for free using Fast.io.
 
 ## Blogs/References
