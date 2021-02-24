@@ -2,5 +2,6 @@
 Deploy a static website for free using Fast.io.
 
 ## Blogs/References
-<https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/><br>
-<https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/>
+
+<https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/><br>
+<https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/>
